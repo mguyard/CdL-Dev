@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Purista';
+    src: url('http://battlelog.battlefield.com/cdnprefix/local/public/base/fonts/purista/PuristaMedium.eot');
+    src: url('http://battlelog.battlefield.com/cdnprefix/local/public/base/fonts/purista/PuristaMedium.eot?#iefix') format('embedded-opentype'),
+         url('http://battlelog.battlefield.com/cdnprefix/local/public/base/fonts/purista/PuristaMedium.woff') format('woff'),
+         url('http://battlelog.battlefield.com/cdnprefix/local/public/base/fonts/purista/PuristaMedium.ttf') format('truetype'),
+         url('http://battlelog.battlefield.com/cdnprefix/local/public/base/fonts/purista/PuristaMedium.svg#puristaregular') format('svg'),
+         local('Purista');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Purista';
+    src: url('http://battlelog.battlefield.com/cdnprefix/local/public/base/fonts/purista/PuristaSemibold.eot');
+    src: url('http://battlelog.battlefield.com/cdnprefix/local/public/base/fonts/purista/PuristaSemibold.eot?#iefix') format('embedded-opentype'),
+         url('http://battlelog.battlefield.com/cdnprefix/local/public/base/fonts/purista/PuristaSemibold.woff') format('woff'),
+         url('http://battlelog.battlefield.com/cdnprefix/local/public/base/fonts/purista/PuristaSemibold.ttf') format('truetype'),
+         url('http://battlelog.battlefield.com/cdnprefix/local/public/base/fonts/purista/PuristaSemibold.svg#puristasemiboldregular') format('svg'),
+         local('Purista');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Purista';
+    src: url('http://battlelog.battlefield.com/cdnprefix/local/public/base/fonts/purista/PuristaBold.eot');
+    src: url('http://battlelog.battlefield.com/cdnprefix/local/public/base/fonts/purista/PuristaBold.eot?#iefix') format('embedded-opentype'),
+         url('http://battlelog.battlefield.com/cdnprefix/local/public/base/fonts/purista/PuristaBold.woff') format('woff'),
+         url('http://battlelog.battlefield.com/cdnprefix/local/public/base/fonts/purista/PuristaBold.ttf') format('truetype'),
+         url('http://battlelog.battlefield.com/cdnprefix/local/public/base/fonts/purista/PuristaBold.svg#puristaboldregular') format('svg'),
+         local('Purista');
+    font-weight: 700;
+    font-style: normal;
+}
